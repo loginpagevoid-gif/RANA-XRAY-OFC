@@ -2,7 +2,7 @@
   "versionCode": 1,
   "versionName": "1.0",
   "forceUpdate": false,
-  "appEnabled": true,
+  "appEnabled": false,
   "downloadUrl": "t.me/MythAdmin",
   "changelog": [
     "Initial release"
